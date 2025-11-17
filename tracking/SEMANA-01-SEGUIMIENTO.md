@@ -1,7 +1,7 @@
 # 📊 SEMANA 01 - Python Basics
 
 **Fechas:** 17-Nov al 24-Nov-2025
-**Curso:** Python Bootcamp (Jose Portilla)
+**Curso:** Python Practicando (Alvaro Chirou) - 🇪🇸 ESPAÑOL
 **Meta:** Variables, tipos, control flow
 
 ---

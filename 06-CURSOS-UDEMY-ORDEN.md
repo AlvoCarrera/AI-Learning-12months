@@ -1,430 +1,342 @@
-# 📚 CURSOS UDEMY EN ORDEN EXACTO
-**Total:** ~136 horas de video | **Estrategia:** 1 o 2 cursos por semana máximo para profundidad
+# 📚 CURSOS UDEMY EN ORDEN EXACTO (ESPAÑOL)
+**Total:** ~140 horas de video | **Idioma:** Español prioritario, inglés solo si no hay alternativa
 
 ---
 
-## 🎓 BÚSQUEDA EN UDEMY (Tips)
+## 🎓 CÓMO BUSCAR EN UDEMY BUSINESS
 
-1. **Accede a:** https://www.udemy.com (con Udemy Business)
+1. **Accede a:** https://www.udemy.com/business (con tu cuenta)
 2. **Busca por nombre** exacto (ver abajo)
-3. **Filtros:** Rating > 4.5, Reviews > 1000
-4. **Importante:** Algunos cursos aparecen con instructores diferentes - busca el más popular
+3. **Filtros:** Rating > 4.5, Language: Español
+4. **Confirma instructor y número de estudiantes**
 
 ---
 
-## 📋 LISTADO COMPLETO Y ORDENADO
+## 📋 LISTADO COMPLETO EN ESPAÑOL
 
 ### **FASE 1: FUNDAMENTOS (MESES 1-3)**
 
 #### **1️⃣ PYTHON BOOTCAMP (Semanas 1-4)**
-- **Nombre exacto (Opción A - RECOMENDADO):**
-  `"The Complete Python Bootcamp by Jose Portilla"`
-  - Instructor: José Portilla
-  - Duración: ~22 horas
-  - Rating: 4.6/5
-  - Topics: Basics, OOP, Functional, Debugging
-  - ✅ Elige ESTA si es tu primera vez con Python
+**Nombre exacto:**
+`"Python Practicando. Desde 0 hasta Desarrollador en Python"`
 
-- **Nombre exacto (Opción B - alternativa):**
-  `"100 Days of Code - The Complete Python Pro Bootcamp"`
-  - Instructor: Dr. Angela Yu
-  - Duración: ~60 horas (pero haces ~25h de lo esencial)
-  - Rating: 4.8/5
-  - Ventaja: Más proyecto-based
-  - ⚠️ Más larga pero muy práctica
-
-**Mi recomendación:** Opción A (Portilla) - es más rápida, igual de sólida.
+- **Instructor:** Alvaro Chirou & Walter Coto
+- **Duración:** ~50+ horas (toma ~25h lo esencial)
+- **Rating:** 4.5/5
+- **Estudiantes:** 684,000+
+- **Idioma:** Español 🇪🇸
+- **Topics:** Python desde cero, OOP, funciones, debugging
+- **✅ Por qué este:** Alvaro Chirou es top instructor latino con 2M+ estudiantes
 
 **Acciones:**
-- Completa Semanas 1-4
-- Haz TODOS los ejercicios
-- Ignora: web scraping, data science (veremos después)
-- Focus: Python fundamentals + OOP
+- Completa Semanas 1-4: fundamentos, OOP, funciones
+- Haz TODOS los ejercicios prácticos
+- Focus: Python sólido desde cero
 
 ---
 
-#### **2️⃣ REST APIs CON FLASK (Semana 5)**
-- **Nombre exacto:**
-  `"REST APIs with Flask and Python"`
-  - Instructor: José Salvatierra
-  - Duración: ~15 horas
-  - Rating: 4.7/5
-  - Topics: HTTP, REST design, Flask basics
+#### **2️⃣ FASTAPI (Semanas 5-7)**
+**Nombre exacto (Opción A - RECOMENDADO):**
+`"Aprende FastAPI desde cero"`
+
+- **Instructor:** Varios (busca el más reciente)
+- **Duración:** ~8-12 horas
+- **Rating:** 4.5+/5
+- **Idioma:** Español 🇪🇸
+- **Topics:** FastAPI, Pydantic, async, REST APIs
+
+**Opción B:**
+`"FastAPI, backend con Python"`
+- Similar content, español
+
+**Opción C (si necesitas más profundidad):**
+`"Desarrolla de forma rápida APIs con FastAPI en Python"` - Alvaro Chirou
+- Español, enfoque práctico
 
 **Acciones:**
-- Semana 5: Completa secciones 1-4 (primeras ~5h)
-- Salta: HTML/CSS frontend, database (lo haremos después)
-- Focus: entender conceptos de REST, status codes, request/response
+- Semanas 6-7: completa TODO el curso
+- Crea tu propia API con ≥3 endpoints
 
 ---
 
-#### **3️⃣ FASTAPI (Semanas 6-7)**
-- **Nombre exacto:**
-  `"FastAPI - The Complete Course"`
-  - Instructor: Varun Priolkar (o busca otra opción si no existe)
-  - Duración: ~12 horas
-  - Rating: 4.6+/5
-  
-  **OU si no encuentras lo anterior:**
-  `"Build web applications with FastAPI"`
-  - Rating: cualquiera > 4.5
-  - Duración: 10-15 horas
+#### **3️⃣ DOCKER (Semana 11)**
+**Nombre exacto:**
+`"Aprende Docker de cero a experto: con Compose y Swarm"`
 
-**Acciones:**
-- Completa Semanas 6-7 (TODO el curso)
-- Proyectos: haz cada mini-proyecto
-- Practice: crea tu propia API con ≥3 endpoints
-
----
-
-#### **4️⃣ DOCKER PARA DEVELOPERS (Semana 11)**
-- **Nombre exacto:**
-  `"Docker for the Absolute Beginner"`
-  - Instructor: Mumshad Mannambeth (Kodekloud)
-  - Duración: ~4 horas
-  - Rating: 4.7/5
-  
-  **OU:**
-  `"Docker Mastery: with Kubernetes +Swarm from a DevOps Guru"`
-  - Instructor: Bret Fisher
-  - Duración: ~20 horas (toma ~8h lo esencial)
-  - Rating: 4.8/5
-  - Ventaja: Más completo, pero puedes saltarte Kubernetes en este curso
-
-**Mi recomendación:** Fisher si tienes tiempo, Kodekloud si quieres algo rápido
+- **Instructor:** Busca instructor latino reconocido
+- **Duración:** ~8-12 horas
+- **Rating:** 4.5+/5
+- **Idioma:** Español 🇪🇸
+- **Topics:** Docker, Dockerfile, Compose, básicos Kubernetes
 
 **Acciones:**
 - Completa: Docker basics, Dockerfile, docker-compose
-- Salta: Kubernetes (lo veremos en Fase 3)
-- Practice: Dockeriza tu API
+- Practice: Dockeriza tu API FastAPI
+
+---
+
+#### **4️⃣ SQL & POSTGRESQL (Semanas 8-9)**
+**Nombre exacto:**
+`"PostgreSQL. Curso completo de PostgreSQL. Aprende desde cero"`
+
+- **Instructor:** REDAIT MEDIA
+- **Duración:** ~10-15 horas
+- **Rating:** 4.5+/5
+- **Idioma:** Español 🇪🇸
+- **Topics:** SQL queries, pgAdmin, stored procedures
+
+**Alternativa:**
+`"Diseño de Base de Datos con PostgreSQL y MySQL"`
+- Español, incluye ambos motores
+
+**Acciones:**
+- Semanas 8-9: SQL básico y PostgreSQL
+- Practice: SQLZoo.net en paralelo
+- Integra DB en tu API
 
 ---
 
 ### **FASE 2: AI WORKFLOWS (MESES 4-6)**
 
-#### **5️⃣ LANGCHAIN & LLMs (Semanas 1-2 de Fase 2)**
-- **Nombre exacto (MEJOR OPCIÓN):**
-  `"LangChain Masterclass"`
-  - Instructor: Varun Priolkar (mismo de FastAPI)
-  - Duración: ~8 horas
-  - Rating: 4.6+/5
-  
-  **OU:**
-  `"LangChain: Build AI applications with LLMs"`
-  - Varios instructores posibles
-  - Duración: 10-15 horas
-  - Rating: > 4.5
+#### **5️⃣ LANGCHAIN + AI AGENTS (Semanas 1-4 de Fase 2)**
+**Nombre exacto:**
+`"Curso Completo: LangChain, LangGraph y Agentes IA con Python"`
 
-  **OU (muy reciente):**
-  `"Advanced Python: Building LLM Applications with LangChain"`
-  - Udemy usually has latest versions
-  - Busca "LangChain" ordenado por fecha más reciente
+- **Instructor:** Busca instructor con buen español
+- **Duración:** ~15-20 horas
+- **Rating:** 4.5+/5
+- **Idioma:** Español 🇪🇸
+- **Topics:** LangChain, LangGraph, Agentes IA, RAG, multi-agent
+
+**✅ Este curso cubre:**
+- LangChain desde cero
+- Construcción de agentes IA
+- RAG systems
+- Multi-agent orchestration
 
 **Acciones:**
-- Completa: Chains, Prompts, Output parsers
-- Deep dive: Memory, Agents, Tools
-- Projects: crea 2 chains personalizadas
-- Documentación: LangChain docs oficial en paralelo
+- Completa: Chains, Memory, Agents, Tools
+- Deep dive: RAG patterns
+- Projects: crea 2 agentes funcionando
 
 ---
 
-#### **6️⃣ BUILDING AI AGENTS WITH PYTHON (Semanas 3-4 de Fase 2)**
-- **Nombre exacto:**
-  `"Building AI Agents with Python"`
-  - Instructor: Varun Priolkar o equivalente
-  - Duración: ~10 horas
-  - Rating: > 4.5
-  
-  **OU si no existe:**
-  `"Python AI: Build Chatbots and AI Agents"`
-  - Cualquiera con >4.5 rating
-  - Duración: 8-12 horas
+#### **6️⃣ PROMPT ENGINEERING (Semana 5 de Fase 2)**
+**⚠️ Pocos cursos en español de calidad**
+
+**Opción A (Español):**
+`"Prompt Engineering con ChatGPT"` o similar
+- Busca el más reciente en español
+- Rating > 4.5
+
+**Opción B (INGLÉS - si no hay bueno en español):**
+`"ChatGPT Prompt Engineering for Developers"`
+- Rating: 4.7+/5
+- Duración: 3-5 horas
+- Contenido aplicable a Claude API
 
 **Acciones:**
-- Completa: Agent architecture, tool use, ReAct pattern
-- Projects: multi-agent system simple
-
----
-
-#### **7️⃣ PROMPT ENGINEERING MASTERCLASS (Semana 5 de Fase 2)**
-- **Nombre exacto:**
-  `"Prompt Engineering Masterclass: Write Better Prompts"`
-  - Instructor: Jonathan Fernandes o similar
-  - Duración: ~4-6 horas
-  - Rating: > 4.5
-  
-  **OU:**
-  `"ChatGPT Prompt Engineering for Developers"`
-  - Más enfocado en OpenAI, pero aplicable a Claude
-  - Duración: 3-5 horas
-
-**Acciones:**
-- Completa: Few-shot learning, chain-of-thought, structured outputs
-- Practice: iterar prompts en LangChain + Claude
-
----
-
-#### **8️⃣ VECTOR DATABASES & RAG (Semanas 5-6 de Fase 2)**
-- ⚠️ **NO hay curso específico Udemy que sea TOP para esto**
-- **Alternativa:**
-  `"LangChain & LLMs"` course tendrá una sección (ver curso 5)
-  OR
-  `"Python for Machine Learning: Build Embedding Systems"`
-  - Si existe, ~6-8 horas
-  
-**Acciones:**
-- Udemy: Watch relevant sections en LangChain course
-- Docs: Lee oficial Pinecone docs + LangChain integrations
-- Learn by doing: Semana 6-8 del proyecto RAG
+- Completa: Few-shot, chain-of-thought, structured outputs
+- Practice: iterar prompts con Claude API
 
 ---
 
 ### **FASE 3: ARQUITECTURA ESCALABLE (MESES 7-9)**
 
-#### **9️⃣ KUBERNETES FOR DEVELOPERS (Semanas 1-3 de Fase 3)**
-- **Nombre exacto (RECOMENDADO):**
-  `"Kubernetes for Developers: Core Concepts"`
-  - Instructor: Mumshad Mannambeth (Kodekloud)
-  - Duración: ~4 horas
-  - Rating: 4.7/5
-  
-  **OU (más profundo):**
-  `"Docker and Kubernetes: The Complete Guide"`
-  - Instructor: Stephen Grider
-  - Duración: ~20 horas (toma ~12h Kubernetes parts)
-  - Rating: 4.8/5
-  - Ventaja: Más comprehensive, hands-on
+#### **7️⃣ KUBERNETES (Semanas 1-3 de Fase 3)**
+**Nombre exacto (Opción A - RECOMENDADO):**
+`"Kubernetes al completo"`
 
-**Mi recomendación:** Grider si quieres algo sólido, Kodekloud si quieres rápido
+- **Duración:** ~27 horas
+- **Rating:** 4.6+/5
+- **Idioma:** Español 🇪🇸
+- **Topics:** K8s desde cero, Pods, Deployments, Services, AWS EKS, Azure AKS
+
+**Opción B:**
+`"Kubernetes, de principiante a experto"`
+- Español, más corto (~15h)
+- Rating: 4.5+/5
+
+**Opción C:**
+`"Kubernetes para Desarrolladores"`
+- Enfoque developers, español
 
 **Acciones:**
 - Completa: Pods, Deployments, Services, Ingress
 - Practice: Deploy en minikube
-- Resource limits, scaling, manifests YAML
+- Cloud examples: AWS o Azure
 
 ---
 
-#### **🔟 MICROSERVICES ARCHITECTURE (Semanas 4-5 de Fase 3)**
-- **Nombre exacto:**
-  `"Microservices Architecture - The Complete Guide"`
-  - Instructor: varios instructores posibles
-  - Duración: ~8-10 horas
-  - Rating: > 4.5
-  
-  **OU:**
-  `"Designing Microservices Architectures"`
-  - Enfoque: design patterns, não solo tech
-  - Duración: ~7-10 horas
+#### **8️⃣ MICROSERVICES ARCHITECTURE (Semanas 4-6 de Fase 3)**
+**Nombre exacto:**
+`"Arquitectura Software Moderna: DDD, Eventos, Microservicios"`
+
+- **Duración:** ~12-15 horas
+- **Rating:** 4.5+/5
+- **Idioma:** Español 🇪🇸
+- **Topics:** DDD, Event-driven, Microservices patterns, CQRS
+
+**Alternativa (más técnico con Spring Boot):**
+`"Microservicios Spring Boot, Spring Cloud Netflix Eureka 2025"`
+- Español, muy práctico
+- Rating: 4.6+/5
+- **Nota:** Enfocado en Java/Spring, pero conceptos aplicables a Python
 
 **Acciones:**
-- Completa: Service boundaries, communication patterns, API gateways
-- Topics: circuit breaker, saga pattern, eventually consistent
+- Completa: Service boundaries, communication patterns
+- Topics: circuit breaker, saga pattern, API gateways
+- Aplica conceptos en Python/FastAPI
 
 ---
 
-#### **1️⃣1️⃣ POSTGRESQL FOR DEVELOPERS (Semana 8 de Fase 3)**
-- **Nombre exacto:**
-  `"PostgreSQL for Developers"`
-  - Instructor: Jon Auerbach o equivalent
-  - Duración: ~8 horas
-  - Rating: > 4.5
-  
-  **OU:**
-  `"The Complete Hands-On Introduction to Apache Cassandra"`
-  - Si quieres NoSQL (no recomendado para esta fase)
-  
-  **OU (muy práctico):**
-  `"SQL and PostgreSQL: The Complete Developer's Guide"`
-  - Instructor: Stephen Grider
-  - Duración: ~15 horas (toma esencial ~8h)
-  - Rating: 4.8/5
+#### **9️⃣ REDIS & CACHING (Semana 9 de Fase 3)**
+**⚠️ Pocos cursos completos en español**
+
+**Opción A (INGLÉS):**
+`"Redis: The Complete Developer's Guide"`
+- Rating: 4.7+/5
+- Duración: ~6-8 horas
+- **Razón:** No hay curso sólido en español
+
+**Alternativa:**
+- Lee documentación oficial de Redis (tiene traducción español)
+- Tutoriales YouTube en español
 
 **Acciones:**
-- Completa: Indexing, query optimization, relationships
-- Topics: EXPLAIN, transactions, connection pooling
-- Skip: replication (básico pero no crítico)
-
----
-
-#### **1️⃣2️⃣ REDIS & CACHING (Semana 9 de Fase 3 - PARALELO)**
-- **Nombre exacto:**
-  `"Redis Cache Fundamentals"`
-  - Instructor: varios
-  - Duración: ~4-6 horas
-  - Rating: > 4.5
-  
-  **OU:**
-  `"Redis: The Ultimate Hands-On Tutorial"`
-  - Duración: ~6-8 horas
-  - Rating: > 4.5
-
-**Acciones:**
-- Basicos: data types, TTLs, pub/sub
-- Advanced: lua scripts, cluster mode (intro only)
+- Basics: data types, TTLs, pub/sub
+- Advanced: caching patterns
+- Integra Redis en tu proyecto
 
 ---
 
 ### **FASE 4: ESPECIALIZACIÓN (MESES 10-12)**
 
-#### **1️⃣3️⃣ AWS FOR DEVELOPERS (Semanas 1-2 de Fase 4)**
-- **Nombre exacto:**
-  `"AWS Certified Cloud Practitioner"`
-  - Instructor: Stephane Maarek
-  - Duración: ~10 horas
-  - Rating: 4.7/5
-  - Bonus: Si pasas exam, certificación
-  
-  **OU (menos formal):**
-  `"AWS for Developers: Getting Started"`
-  - Instructor: varios
-  - Duración: ~6-8 horas
-  - Rating: > 4.5
+#### **🔟 AWS CLOUD (Semanas 1-2 de Fase 4)**
+**Nombre exacto (RECOMENDADO):**
+`"[Español] AWS Certified Cloud Practitioner (CLF-C02)"`
+
+- **Instructor:** Joan Amengual (bestseller AWS en Udemy)
+- **Duración:** ~10-12 horas
+- **Rating:** 4.7+/5
+- **Idioma:** Español 🇪🇸
+- **Bonus:** Preparación para certificación oficial AWS
+
+**Alternativa:**
+`"Curso Completo de AWS Cloud Practitioner - Español"`
+- Instructor: Gabriel Alvarado o Antonio Sánchez
+- Similar content
 
 **Acciones:**
-- Completa: EC2, RDS, S3, VPC, IAM, CloudWatch
-- Skip: compliance, governance (No critical)
-- Lab: launch EC2 instance, conecta RDS
+- Completa: EC2, RDS, S3, VPC, IAM
+- Lab: launch EC2, conecta RDS
+- Opcional: toma certificación oficial
 
 ---
 
-#### **1️⃣4️⃣ CI/CD & DEPLOYMENT PIPELINES (Semana 3 de Fase 4)**
-- **Nombre exacto:**
-  `"CI/CD with GitHub Actions: From Zero to Hero"`
-  - Instructor: Mosh Hamedani o equivalent
-  - Duración: ~4-6 horas
-  - Rating: > 4.5
-  
-  **OU:**
-  `"Jenkins & Kubernetes: Deploy Applications at Scale"`
-  - Si quieres enterprise CI/CD
-  - Duración: ~8-10 horas
+#### **1️⃣1️⃣ CI/CD & GITHUB ACTIONS (Semana 3 de Fase 4)**
+**⚠️ Pocos cursos específicos en español**
+
+**Opción A (Español):**
+Busca: `"CI/CD GitHub Actions español"`
+- Varios cursos cortos disponibles
+- Rating > 4.5
+
+**Opción B (INGLÉS - recomendado):**
+`"GitHub Actions - The Complete Guide"`
+- Rating: 4.7+/5
+- Duración: ~6 horas
+- Muy práctico y actualizado
 
 **Acciones:**
-- Completa: GitHub Actions basics
-- Workflows: build, test, deploy
-- Secrets en CI/CD
+- Completa: GitHub Actions workflows
+- Build, test, deploy pipelines
+- Secrets management
 
 ---
 
-#### **1️⃣5️⃣ TERRAFORM / INFRASTRUCTURE AS CODE (Semana 2 de Fase 4 - OPTATIVO)**
-- **Nombre exacto:**
-  `"Terraform Associate Certification"`
-  - Instructor: Zeal Vora
-  - Duración: ~6 horas
-  - Rating: 4.6/5
-  - Bonus: Certificación oficial
-  
-  **OU (menos formal):**
-  `"Infrastructure as Code: Terraform"`
-  - Duración: ~5-8 horas
-  - Rating: > 4.5
+#### **1️⃣2️⃣ TERRAFORM (Opcional - Semana 2 de Fase 4)**
+**⚠️ Curso en INGLÉS (no hay buena alternativa español)**
+
+**Nombre exacto:**
+`"HashiCorp Certified: Terraform Associate"`
+- Instructor: Zeal Vora
+- Rating: 4.6+/5
+- Duración: ~6 horas
+- Certificación oficial
 
 **Acciones:**
-- Completa: HCL, resources, modules, state
-- Practice: escribir Terraform para tu stack
+- HCL, resources, modules, state
+- Write Terraform para tu stack
 
 ---
 
 ## 📊 RESUMEN VISUAL
 
 ```
-FASE 1: Python + FastAPI + Docker (4 cursos, 60h)
-│
-├─ Semanas 1-4: Python Bootcamp (22h)
-├─ Semana 5: REST APIs Flask (5h)
-├─ Semanas 6-7: FastAPI (12h)
-└─ Semana 11: Docker (8h)
+FASE 1 (Español 100%): ~60h
+├─ Python Practicando (Alvaro Chirou) - 25h
+├─ FastAPI desde cero - 10h
+├─ Docker de cero a experto - 10h
+└─ PostgreSQL completo - 15h
 
-FASE 2: AI & Workflows (3-4 cursos, 30h)
-│
-├─ Semanas 1-2: LangChain (8h)
-├─ Semanas 3-4: AI Agents (10h)
-├─ Semana 5: Prompt Engineering (4h)
-└─ Semanas 5-6: RAG (read docs, no Udemy course)
+FASE 2 (Español 90%): ~30h
+├─ LangChain + Agentes IA completo - 20h
+└─ Prompt Engineering (inglés si necesario) - 5h
 
-FASE 3: Architecture & Scaling (4 cursos, 26h)
-│
-├─ Semanas 1-3: Kubernetes (4h compact or 12h deep)
-├─ Semanas 4-5: Microservices (10h)
-├─ Semana 8: PostgreSQL (8h)
-└─ Semana 9: Redis (6h parallel)
+FASE 3 (Español 80%): ~35h
+├─ Kubernetes al completo - 27h
+├─ Arquitectura Moderna Microservicios - 12h
+└─ Redis (inglés) - 6h
 
-FASE 4: Cloud & Monetization (2-3 cursos, 20h)
-│
-├─ Semanas 1-2: AWS (10h)
-├─ Semana 3: CI/CD (6h)
-└─ Semana 2 (opt): Terraform (6h)
+FASE 4 (Español 70%): ~25h
+├─ AWS Cloud Practitioner español (Joan Amengual) - 12h
+├─ CI/CD GitHub Actions (inglés) - 6h
+└─ Terraform (inglés opcional) - 6h
 
-TOTAL: ~136 horas video + ~300 horas práctica = 12 meses (2h/día)
+TOTAL: ~150 horas video (85% español)
 ```
 
 ---
 
-## ⚡ TIPS PARA OPTIMIZAR TIEMPO EN UDEMY
+## 💡 TIPS PARA CURSOS EN ESPAÑOL
 
-1. **Velocidad:** Mira a 1.25x o 1.5x velocidad (inteligible)
-2. **Jump:** Si el instructor explica algo que ya entiendes, salta
-3. **Code along:** NO veas pasivamente - codea en paralelo
-4. **Pause & Practice:** Cada 10 min de video, haz 5 min de ejercicio
-5. **Review:** Re-watch secciones complicadas después de 1 semana
-
----
-
-## 🔗 LINKS DIRECTOS (USA/Global Udemy)
-
-- **Home:** https://www.udemy.com
-- **Search:** https://www.udemy.com/courses/search/
-- **Business:** Si tienes account business, accede aquí con credenciales
+1. **Velocidad:** 1.25x funciona bien en español
+2. **Subtítulos:** Actívalos si el audio no es claro
+3. **Code along:** SIEMPRE codea mientras ves
+4. **Comunidad:** Únete a grupos de estudiantes latinos
 
 ---
 
-## ⚠️ SI UN CURSO NO EXISTE EN TU REGIÓN
+## 🎯 INSTRUCTORES TOP EN ESPAÑOL
 
-Algunos cursos pueden no estar disponibles en Ecuador por licensing. Alternativas:
-1. USA VPN (Mullvad gratis, Open VPN)
-2. Curso equivalente que SÍ esté disponible (suele haber)
-3. Learn by doing: docs + GitHub repos público
-
----
-
-## 📝 NOTA: RECURSOS GRATUITOS COMPLEMENTARIOS
-
-Aunque usas Udemy, estos son LIBRES y súper valiosos:
-
-```
-Python & Web:
-- Real Python (realpython.com) - tutorials
-- Flask/FastAPI docs oficiales
-- Python docs (docs.python.org)
-
-AI & LLMs:
-- Claude documentation (claude.ai/docs)
-- OpenAI Cookbook (github.com/openai/cookbook)
-- LangChain docs (langchain.com)
-
-Cloud & DevOps:
-- AWS documentation (docs.aws.amazon.com)
-- Kubernetes docs (kubernetes.io)
-- Terraform docs (terraform.io/docs)
-
-Learning:
-- FreeCodeCamp YouTube (full courses)
-- MIT OpenCourseWare (CS fundamentals)
-- Scrimba (interactive coding)
-```
+- **Alvaro Chirou** - Python, FastAPI, Hacking (2M+ estudiantes)
+- **Joan Amengual** - AWS certifications (bestseller)
+- **REDAIT MEDIA** - Bases de datos
+- Busca siempre rating >4.5 y +10K estudiantes
 
 ---
 
-## 🎯 PRÓXIMO PASO
+## ⚠️ SI UN CURSO NO ESTÁ DISPONIBLE
 
+1. Busca el nombre en Udemy con filtro "Español"
+2. Ordena por "Más vendidos" o "Mejor valorados"
+3. Confirma rating >4.5 y reviews >1000
+4. Si NO hay en español, usa la versión en inglés con subtítulos
+
+---
+
+## 🚀 PRÓXIMO PASO
+
+**HOY MISMO:**
 1. Abre Udemy Business
-2. Busca **"The Complete Python Bootcamp by Jose Portilla"**
-3. Enrola (es gratis con Udemy Business)
-4. Empieza Semana 1
-5. Update: `07-SEGUIMIENTO-SEMANAL.md` cada semana
+2. Busca: **"Python Practicando. Desde 0 hasta Desarrollador en Python"**
+3. Instructor: Alvaro Chirou
+4. Enrólate
+5. Empieza Semana 1
 
 ---
 
-**Versión:** 1.0  
-**Actualizado:** November 17, 2025  
-**Última revisión:** Cursos confirmados existentes en Udemy (2025)
+**Versión:** 2.0 - ESPAÑOL
+**Actualizado:** 17-Nov-2025
+**Idioma principal:** Español (85% de cursos)

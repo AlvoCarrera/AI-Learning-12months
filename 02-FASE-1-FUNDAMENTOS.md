@@ -26,9 +26,10 @@ Al finalizar tendrás:
 | 3 | OOP (clases, herencia, polimorfismo) | 6h | 15h | Mini-proyecto: clase de Usuario |
 | 4 | Modules, packages, debugging, testing | 5h | 15h | Script con tests |
 
-**Cursos Udemy (Semanas 1-4):**
-- **"The Complete Python Bootcamp"** (José Portilla) O **"100 Days of Code: Python"**
-- Elige UNO - no ambos
+**Cursos Udemy (Semanas 1-4) - ESPAÑOL:**
+- **"Python Practicando. Desde 0 hasta Desarrollador en Python"** (Alvaro Chirou)
+- Rating: 4.5/5 | 684,000+ estudiantes | 🇪🇸 ESPAÑOL
+- Duración: ~50h (toma ~25h lo esencial)
 - Ver: `06-CURSOS-UDEMY-ORDEN.md` para link exacto
 
 **Conceptos CLAVE a dominar:**
@@ -58,12 +59,13 @@ Al finalizar tendrás:
 | 6 | FastAPI intro (route, request/response, Pydantic) | 6h | 12h | 3 endpoints simples |
 | 7 | FastAPI avanzado (middleware, error handling, docs) | 6h | 12h | API completa con validation |
 
-**Cursos Udemy (Semanas 5-7):**
-- Semana 5: **"REST APIs with Flask and Python"** (para entender conceptos - 15h total, pero haces lo esencial)
-  - Salta: frontend (HTML), enfócate en conceptos API
-  - Tiempo real: ~4-5h para lo que necesitas
-- Semanas 6-7: **"FastAPI - The Modern Way to Build APIs"** (12h)
+**Cursos Udemy (Semanas 5-7) - ESPAÑOL:**
+- Semana 5: Conceptos REST (puedes revisar docs online si ya conoces)
+- Semanas 6-7: **"Aprende FastAPI desde cero"** O **"FastAPI, backend con Python"**
+  - Rating: 4.5+/5 | 🇪🇸 ESPAÑOL
+  - Duración: ~10-12 horas
   - CRÍTICO: haz TODO esto. FastAPI es tu tool principal
+  - Alternativa: **"Desarrolla de forma rápida APIs con FastAPI en Python"** (Alvaro Chirou)
 
 **Conceptos CLAVE:**
 ```python
@@ -98,12 +100,13 @@ Crea API simple:
 | 9 | PostgreSQL setup + psycopg2 + SQLAlchemy intro | 4h | 10h | ORM básico funcionando |
 | 10 | Git profesional + GitHub + CI basics | 3h | 8h | Repos bien estructurados |
 
-**Cursos Udemy (Semanas 8-10):**
-- Semana 8: No Udemy - practíca en **SQLZoo.net** + docs PostgreSQL
-  - Objetivo: entender SQL bien, NO solo memorizar
-- Semana 9: **"Complete SQLAlchemy Course"** O sección en FastAPI course
-  - O learn by doing: instala SQLAlchemy, integra en tu API del mini-proyecto semana 7
-- Semana 10: Git - **"Git & GitHub Complete Master Course"** (3-4h en Udemy)
+**Cursos Udemy (Semanas 8-10) - ESPAÑOL:**
+- Semana 8-9: **"PostgreSQL. Curso completo de PostgreSQL. Aprende desde cero"** (REDAIT MEDIA)
+  - Rating: 4.5+/5 | 🇪🇸 ESPAÑOL
+  - Duración: ~10-15 horas
+  - Alternativa: **"Diseño de Base de Datos con PostgreSQL y MySQL"**
+  - Practica en paralelo: **SQLZoo.net**
+- Semana 10: Git - Busca **"Git GitHub español"** (3-4h en Udemy, rating >4.5)
 
 **Conceptos CLAVE:**
 ```sql
@@ -151,9 +154,10 @@ Integra DB en tu API:
 | 11 | Docker basics (images, containers, Dockerfile, compose) | 5h | 10h | App containerizada |
 | 12 | PROYECTO FINAL: Email Classifier Agent | 0h | 20h | MVP deployable |
 
-**Curso Udemy (Semana 11):**
-- **"Docker for Developers"** (8h)
-- O secciones Docker en cursos anteriores si están
+**Curso Udemy (Semana 11) - ESPAÑOL:**
+- **"Aprende Docker de cero a experto: con Compose y Swarm"**
+- Rating: 4.5+/5 | 🇪🇸 ESPAÑOL
+- Duración: ~8-12 horas
 
 **Conceptos CLAVE:**
 ```dockerfile
