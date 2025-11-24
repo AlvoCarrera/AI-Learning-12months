@@ -338,5 +338,5 @@ TOTAL: ~150 horas video (85% español)
 ---
 
 **Versión:** 2.0 - ESPAÑOL
-**Actualizado:** 17-Nov-2025
+**Actualizado:** 24-Nov-2025
 **Idioma principal:** Español (85% de cursos)

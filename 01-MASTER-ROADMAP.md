@@ -126,6 +126,6 @@ TOTAL: ~136 horas de video + 300+ horas de práctica
 
 ---
 
-**Versión:** 1.0  
-**Última actualización:** November 17, 2025  
-**Estado:** ACTIVO - En implementación
+**Versión:** 1.0
+**Última actualización:** November 24, 2025
+**Estado:** ACTIVO - En implementación HOY
