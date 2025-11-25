@@ -1,9 +1,9 @@
 # 📌 Variables y Tipos de Datos en Python
 
-**Fecha:** 17-Nov-2025
+**Fecha:** 14-Nov-2025
 **Curso:** Python Practicando
 **Sección:** Fundamentos
-**Tracking:** [[2025-11-17]]
+**Tracking:** [[2025-11-24]]
 
 ---
 
@@ -15,65 +15,35 @@
 
 ## 📖 Notas
 
-### Tipos básicos
+## dato
+- Un dato es una de las cosas básicas que utiliza un programa, como una letra o un numero
+## variable
+una de las características mas potentes de un lenguaje de proigramacion es la capacidad de manipular variables. Una variable es un nombre que se refiere a un dato
 
-- **int**: números enteros → `edad = 25`
-- **float**: decimales → `precio = 19.99`
-- **str**: texto → `nombre = "Alvaro"`
-- **bool**: verdadero/falso → `activo = True`
+## reglas de las variables
+- no puedes iniciar con un numero
+- no pueden llevar caracteres especiales
+- no pueden llevar el nombre de palabras reservadas del lenguaje
 
-### Declaración de variables
+## tipos de datos
+- entero
+- flotante
+- cadena de texto
+## ejemplos
+edad = 20
+mensaje = "bienvenido"
 
-```python
-# No necesitas declarar tipo
-nombre = "Alvaro"
-edad = 30
+# Operacores aritméticos y jerarquias
 
-# Puedes cambiar el tipo
-edad = "treinta"  # Ahora es string
-```
+los operadores son símbolos especiales que representan cálculos, como la suma o la multiplicación. los valores a cuales se aplican esos operadores reciben el nombre de operandos.
 
-### Convenciones de nombres
+- suma(+)
+- resta(-)
+- multiplicación( * )
+- division(/)
+- modulo
+	- es un operador que sirve para tomar en cuenta la parte del resto o residuo de una operación
+- exponenciacion ( ** )
+- division entera ( // )
+la jerarquia es cuando se presentan muchas operaciones para realizar y es el orden de la operación
 
-- snake_case para variables → `mi_variable`
-- MAYUSCULAS para constantes → `MAX_INTENTOS`
-- No usar palabras reservadas
-
----
-
-## 💻 Código
-
-```python
-# Variables básicas
-nombre = "Alvaro"
-edad = 30
-altura = 1.75
-estudiante = True
-
-# Ver tipo de variable
-print(type(nombre))  # <class 'str'>
-print(type(edad))    # <class 'int'>
-
-# Conversión de tipos
-edad_str = str(edad)
-precio = float(20)
-
-# F-strings (mejor práctica)
-mensaje = f"Hola {nombre}, tienes {edad} años"
-print(mensaje)
-```
-
----
-
-## 🔗 Relacionado
-- [[python-strings-formato]]
-- [[python-operadores]]
-
----
-
-## ✨ Conclusión
-
-Python hace fácil trabajar con variables. El tipado dinámico permite flexibilidad, pero debo tener cuidado con los tipos para evitar errores.
-
----
-`#nota #python #variables`
